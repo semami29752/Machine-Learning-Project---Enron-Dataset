@@ -9,7 +9,6 @@
     that process should happen at the end of poi_id.py
 """
 import os
-os.chdir("/Users/saminemami/Documents/DAND/Machine Learning/ud120-projects/final_project")
 import pickle
 import sys
 from sklearn.model_selection import StratifiedShuffleSplit

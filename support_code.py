@@ -1,5 +1,7 @@
-# the code for graphical analysis of the features and
-# returning the top k features based on their F-score.
+'''
+the code for graphical analysis of the features and
+returning the top k features based on their F-score.
+'''
 import sys
 import pickle
 

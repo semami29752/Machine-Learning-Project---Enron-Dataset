@@ -10,7 +10,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-sys.path.append("../tools/")
 
 
 from feature_format import featureFormat, targetFeatureSplit
